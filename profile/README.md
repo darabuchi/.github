@@ -14,6 +14,6 @@
 
 如果你想支持我们，可以给我们捐款
 
-ETH: 0x93a12c8525eE0DDF4745253E8d76d51d505fF224
+USTD: FSXzUBfvKNL9yXkF2WMjPJdLmeC2D3N3zN5WjUfyAGKi
 
 ko-fi: <a href='https://ko-fi.com/darabuchi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
