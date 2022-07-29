@@ -10,10 +10,8 @@
 | [mappu ](https://github.com/darabuchi/mappu)        | 一个用于代理分流的规则集（服务于[enputi ](https://github.com/darabuchi/enputi)） |
 | [etsuko](https://github.com/darabuchi/etsuko)       | 拥有一切可能性的 `Telegram` 机器人                           |
 
-
+组织的任何项目禁止任何中华人民共和国公民以及在进行和中华人民共和国相关业务以及人使用，除非获取组织的明确的、有限的授权
 
 如果你想支持我们，可以给我们捐款
 
 USTD: FSXzUBfvKNL9yXkF2WMjPJdLmeC2D3N3zN5WjUfyAGKi
-
-ko-fi: <a href='https://ko-fi.com/darabuchi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
