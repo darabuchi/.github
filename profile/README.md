@@ -8,7 +8,6 @@
 | [mini-enputi ](https://github.com/darabuchi/enputi) | 一个用于本地自动代理选择的代理工具                           |
 | [unlockcheck ](https://github.com/darabuchi/enputi) | 用于输出代理的详细数据的测试工具                             |
 | [mappu ](https://github.com/darabuchi/mappu)        | 一个用于代理分流的规则集（服务于[enputi ](https://github.com/darabuchi/enputi)） |
-| [etsuko](https://github.com/darabuchi/etsuko)       | 拥有一切可能性的 `Telegram` 机器人                           |
 
 组织的任何项目禁止任何中华人民共和国公民以及在进行和中华人民共和国相关业务以及人使用，除非获取组织的明确的、有限的授权
 
